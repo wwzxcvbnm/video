@@ -1,1 +1,1 @@
-window.location.herf = "https://www.baidu.com";
+window.location.href = "https://www.baidu.com";
